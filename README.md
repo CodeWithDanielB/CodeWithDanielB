@@ -7,8 +7,7 @@ Hey there! I'm Daniel Biswakarma, a seasoned C# developer with a strong affinity
 
 </p>
 
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithDanielB&show_icons=true&theme=radical) ![Developer GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 
 
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithDanielB&show_icons=true&theme=radical)
