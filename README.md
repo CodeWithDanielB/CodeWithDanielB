@@ -9,7 +9,7 @@ style="max-width: 30%; display: inline-block;"
 data-target="animated-image.originalImage" width="300">
 
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithDanielB&show_icons=true&theme=ambient_gradient)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithDanielB&show_icons=true&theme=chartreuse-dark)
 
 
 
