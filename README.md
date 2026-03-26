@@ -1,7 +1,7 @@
 # Hi there I am Daniel Biswakarma. 👋 👩🏾‍💻 #
 
 ## ✨Let's connect and dive into the world of code together!✨ 
-Hey there! I'm Daniel Biswakarma, a curious C# developer with a strong affinity for the .NET framework. I specialize in crafting scalable solutions using technologies like .NET Framework, .NET Core, and ASP.NET. 
+Learning web development, cloud technologies, and building real-world projects.
 
 <img align="right" src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
 data-canonical-src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" 
